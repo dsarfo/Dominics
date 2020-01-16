@@ -1,8 +1,4 @@
 hi Im excited to be here
-<<<<<<< HEAD
-see you soon....
 Hey I'm back again
-=======
 see you soon....c
-hkeieifnfuue edbwdywdvywdwjbwhyyf
->>>>>>> e18b37a6cc350fc73e0d9b7ab068a2c0b518ff0a
+This is from my server side
